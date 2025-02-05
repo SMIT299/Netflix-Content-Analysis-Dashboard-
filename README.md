@@ -1,4 +1,7 @@
 # 📊 Netflix Movies & TV Shows Data Analysis using SQL & Tableau
+![image](https://github.com/user-attachments/assets/93262518-05af-4a09-93b6-9e11712c00bd)
+
+
 
 ## 📌 Overview
 This project provides an in-depth analysis of Netflix's movie and TV show catalog using **SQL**. The primary objective is to extract valuable insights, answer key business questions, and present findings in an interactive **Tableau dashboard**.
